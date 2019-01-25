@@ -45,7 +45,7 @@ BATF can be run as follows:
 
 ## Citation
 
-Please considering citing our publicly available dataset and article:
+If you find the project useful for your publication, please consider citing our publicly available dataset and paper:
 
 - Urban Traffic Speed Dataset of Guangzhou, China (Available at [https://doi.org/10.5281/zenodo.1205229](https://doi.org/10.5281/zenodo.1205229))
 
