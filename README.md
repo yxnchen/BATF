@@ -1,5 +1,5 @@
 # Bayesian augmented tensor factorization
-MATLAB code for paper *Missing traffic data imputation and pattern discovery with a Bayesian augmented tensor factorization model* by Xinyu Chen, Zhaocheng He, Yixian Chen and Yuhuan Lu, Transportation Research Part C: Emerging Technologies, 2019, accepted for publication. [[priprint](https://xinychen.github.io/paper/BATF.pdf)] [[slide](https://doi.org/10.5281/zenodo.2632552)]
+MATLAB code for paper *Missing traffic data imputation and pattern discovery with a Bayesian augmented tensor factorization model* by Xinyu Chen, Zhaocheng He, Yixian Chen, Yuhuan Lu and Jiawei Wang, 2019. Transportation Research Part C: Emerging Technologies, accepted for publication. [[**priprint**](https://xinychen.github.io/paper/BATF.pdf)] [[**slide**](https://doi.org/10.5281/zenodo.2632552)]
 
 ## Project structure
 
