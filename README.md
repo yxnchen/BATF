@@ -1,5 +1,5 @@
 # Bayesian augmented tensor factorization
-MATLAB code for paper *Missing traffic data imputation and pattern discovery with a Bayesian augmented tensor factorization model* by Xinyu Chen, Zhaocheng He, Yixian Chen, Yuhuan Lu and Jiawei Wang, 2019. Transportation Research Part C: Emerging Technologies, accepted for publication. [[**priprint**](https://xinychen.github.io/paper/BATF.pdf)] [[**slide**](https://doi.org/10.5281/zenodo.2632552)]
+MATLAB code for paper *Missing traffic data imputation and pattern discovery with a Bayesian augmented tensor factorization model* by Xinyu Chen, Zhaocheng He, Yixian Chen, Yuhuan Lu and Jiawei Wang, 2019. Transportation Research Part C: Emerging Technologies, 104: 66-77. [[**preprint**](https://xinychen.github.io/paper/BATF.pdf)] [[**slide**](https://doi.org/10.5281/zenodo.2632552)]
 
 ## Project structure
 
@@ -60,7 +60,21 @@ If you find the project useful for your publication, please consider citing our 
   }
   ```
 
-- Missing traffic data imputation and pattern discovery with a Bayesian augmented tensor factorization model
+- Missing traffic data imputation and pattern discovery with a Bayesian augmented tensor factorization model (Available at [https://doi.org/10.1016/j.trc.2019.03.003](https://doi.org/10.1016/j.trc.2019.03.003))
+
+  ```tex
+  @Article{Chen2019Missing,
+    author    = {Xinyu Chen and Zhaocheng He and Yixian Chen and Yuhuan Lu and Jiawei Wang},
+    title     = {Missing traffic data imputation and pattern discovery with a Bayesian augmented tensor factorization model},
+    journal   = {Transportation Research Part C: Emerging Technologies},
+    year      = {2019},
+    volume    = {104},
+    pages     = {66--77},
+    month     = {jul},
+    doi       = {10.1016/j.trc.2019.03.003},
+    publisher = {Elsevier {BV}},
+  }
+  ```
 
 ## License
 
