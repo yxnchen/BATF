@@ -16,7 +16,7 @@ MATLAB code for paper *Missing traffic data imputation and pattern discovery wit
 - `kr.m`:  A Kronecker product function.
 - `mat2ten.m`: A tensor folding function.
 - `ten2mat.m`: A tensor unfolding function.
-- `vec_combination.m`: A function for summing up the bias vectors to a 3-dimensional tensor.
+- `vec_combination.m`: A function for summing up the bias vectors to a 3-dimensional tensor. (Please consider using a new version of MATLAB)
 - `safelog.m`: A safe logarithm function inspired by the work of [BCPF](https://github.com/qbzhao/BCPF).
 
 ### Experimental dataset
